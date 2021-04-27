@@ -1,6 +1,8 @@
 [submodule "packages/reset-css"]
 	path = packages/reset-css
 	url = git@github.com:nico1988/reset.css.git
+	ignore = all
 [submodule "packages/blog"]
 	path = packages/blog
 	url = git@github.com:nico1988/blogs.git
+	ignore = all
